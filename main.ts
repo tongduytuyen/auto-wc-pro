@@ -30,7 +30,7 @@ basic.forever(function () {
 })
 basic.forever(function () {
     cambien2 = sonar.ping(
-    DigitalPin.P10,
+    DigitalPin.P16,
     DigitalPin.P8,
     PingUnit.Centimeters
     )
